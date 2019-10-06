@@ -5,6 +5,6 @@
 
 - [x] CONTIBTING.md
 - [x] Required Status Checks
-- [x] Issue and PR templates
+- [x] Issue templates
 - [x] Probot Request Info (off the shelf)
 - [x] Probot Issue Reply (hosted with Glitch)
