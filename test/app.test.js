@@ -10,7 +10,7 @@ describe('GET /', function(){
       server.listen(port);
   });
 
-  it('should return a 200 status code', function (done){
+  it('should return a 201 status code', function (done){
     http.get({ host: '0.0.0.0', port: 3000 }, function(res) {
       assert.deepEqual(res.statusCode, 200);
       done();
